@@ -1,0 +1,13 @@
+T 1 0
+F
+F
+0.0D0 0.0D0
+
+>>>>> Print head of file ?; Step counters NSTEP and MDSTEP; always use NSTEP 1 and MDSTEP 0
+T 1 0
+>>>>> Set up initial positions ?
+T
+>>>>> Set up initial velocities ?
+T
+>>>>> Initialize average accumulators of the <nuclear kinetic energy> and <SCF energy>
+0.0D0 0.0D0
